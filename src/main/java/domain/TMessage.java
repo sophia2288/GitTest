@@ -14,6 +14,7 @@ import javax.persistence.Table;
 public class TMessage implements java.io.Serializable {
 
 	private int id;
+	
 	private String name;
 
 	public TMessage() {
